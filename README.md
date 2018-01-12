@@ -26,9 +26,7 @@ This image illustrates the three different 2D Dual Tree Complex Wavelet Transfor
 <p> 
 A preprint of the paper is available <a href="NDcwt.pdf">here</a>
 </p>
-<h3> 
- <a href="UDTCWT.zip">Matlab Code Download</a>
-</h3>
+
 <p>
 Implementations of three complex wavelet transforms can be downloaded below as mex matlab files.  They have been compiled in 32bit and 64bit windows
 formats.  If you need an alternative format (Mac/ Linux) please <a href="mailto:paul.hill@bristol.ac.uk">email me</a>.   
